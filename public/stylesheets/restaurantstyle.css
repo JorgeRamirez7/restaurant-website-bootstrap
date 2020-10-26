@@ -1,0 +1,39 @@
+.nav-item {
+    padding-right: 10px;
+}
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+.bodytext {
+    font-family: "Helvetica";
+    font-size: large;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 1%;
+}
+.jumbotron {
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #a5ecd7;
+}
+.menu-pictures {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+}
+.menu-table {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 2%;
+}
+body {
+    background-color: #51adcf;
+}
